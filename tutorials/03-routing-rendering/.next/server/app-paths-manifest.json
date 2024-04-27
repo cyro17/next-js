@@ -1,5 +1,0 @@
-{
-  "/icon.jpg/route": "app/icon.jpg/route.js",
-  "/archive/@archive/page": "app/archive/@archive/page.js",
-  "/archive/@archive/[year]/page": "app/archive/@archive/[year]/page.js"
-}
