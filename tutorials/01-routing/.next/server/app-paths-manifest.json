@@ -1,0 +1,4 @@
+{
+  "/icon.jpg/route": "app/icon.jpg/route.js",
+  "/archive/@archive/page": "app/archive/@archive/page.js"
+}
