@@ -26,31 +26,6 @@
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/chunks/app/(content)/news/page.js"
-    ],
-    "/(content)/news/[slug]/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/(content)/news/[slug]/page.js"
-    ],
-    "/(content)/news/[slug]/layout": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/(content)/news/[slug]/layout.js"
-    ],
-    "/(content)/news/[slug]/not-found": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/(content)/news/[slug]/not-found.js"
-    ],
-    "/(content)/news/[slug]/@modal/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/(content)/news/[slug]/@modal/page.js"
-    ],
-    "/(content)/news/[slug]/@modal/(.)image/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/(content)/news/[slug]/@modal/(.)image/page.js"
     ]
   }
 }
